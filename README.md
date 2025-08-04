@@ -17,7 +17,7 @@
 
 Желаем успехов!
 
-**Преподаватель курса**
-**Лактюшин Евгений**
-Devops-инженер
+**Преподаватель курса**\
+**Лактюшин Евгений**\
+Devops-инженер\
 ![alt](https://learn.astondevs.ru/pluginfile.php/132034/mod_page/content/1/image.png)
