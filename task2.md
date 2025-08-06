@@ -23,8 +23,8 @@
 
 ### Технологии и инструменты
 - Docker, Docker Compose  
-- Terraform  
-- Kubernetes  
+- Terraform (есть небольшой опыт использования)  
+- Kubernetes (есть небольшой опыт использования)
 - Опыт работы с Yandex Cloud (начальный уровень)
 
 ---
